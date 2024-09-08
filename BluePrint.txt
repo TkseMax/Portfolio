@@ -1,0 +1,11 @@
+my-website/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── style.scss
+├── js/
+│   └── main.js
+├── images/
+│   └── (your images)
+└── assets/
+    └── fonts/ (optional)
